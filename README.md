@@ -22,7 +22,7 @@ The tables must store the values in the following columns:
 To showcase the working database, an “interesting” query about the data is included.
 
 *NOTE: Code will not properly execute due to the fact that it currently requires you to connect to the DePaul Student Linux server. 
-In the near future, the code will be updated to connect to my own server.
+In the near future, the code will be updated to connect to my own server.*
 
 In this folder there are two files, as well as an Eclipse java project.
 
