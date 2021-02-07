@@ -1,9 +1,11 @@
-**Relational Database Work
-**JDBC
-**Reidy 
+**Relational Database Work**
+
+**JDBC**
+
+**Reidy**
 
 
-*Overview
+*Overview*
 
 The objective of this project was to create a 3NF database from 3 .XLSX files provided which use “: :” to separate each value. 
 All code must be run from stored procedures, and must be re-executable. 
