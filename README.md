@@ -1,8 +1,9 @@
->>>> Database Work <<<< 
- >>>     Reidy     <<< 
+**Relational Database Work
+**JDBC
+**Reidy 
 
 
->> Overview <<
+*Overview
 
 The objective of this project was to create a 3NF database from 3 .XLSX files provided which use “: :” to separate each value. 
 All code must be run from stored procedures, and must be re-executable. 
@@ -28,6 +29,6 @@ In this folder there are two files, as well as an Eclipse java project.
 > RunQueries.java should be run afterwards. It runs the query, and requires user input to complete.
 
 > Reidy_Code is a Word document of all the code found in the eclipse Eclipse Project. 
->The first part is the code to set up the database, and the second part runs the query.
+>>The first part is the code to set up the database, and the second part runs the query.
 
 > Reidy_Output.pdf is a PDF of all the outputs from setting up the database, the query output, as well as the query analysis.
